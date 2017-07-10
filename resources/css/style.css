@@ -237,6 +237,15 @@ header .mobile {
   margin: 0 auto;
 }
 
+.feature .image-container img {
+  max-width: 100%;
+  display: block;
+}
+
+.feature .content {
+  padding: 2.5rem 0;
+}
+
 .feature h2 {
   padding-bottom: .5rem;
   font-size: 2.25rem;
